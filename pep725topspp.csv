@@ -1,0 +1,112 @@
+"sci_name","cult_name","N"
+"Vitis vinifera","(Johannesberg) Riesling",8
+"Acer","Acer platanoides",6
+"Acer","Acer pseudoplatanus",7
+"Alnus","Alnus glutinosa",3
+"Alnus","Alnus incana",1
+"Betula","Betula pendula (B. verrucosa| B. alba)",10
+"Malus x domestica","Betula pendula (B. verrucosa| B. alba)",1
+"Betula","Betula pubescens",7
+"Cornus","Cornus mas",3
+"Malus x domestica","early cultivar",5
+"Prunus avium","early cultivar",8
+"Prunus domestica","early cultivar",5
+"Pyrus communis","early cultivar",6
+"Solanum tuberosum","early cultivar",4
+"Vitis vinifera","early cultivar",6
+"Fagus","Fagus sylvatica",9
+"Malus x domestica","Jonathan",5
+"Malus x domestica","late cultivar",8
+"Prunus avium","late cultivar",8
+"Prunus domestica","late cultivar",8
+"Pyrus communis","late cultivar",7
+"Solanum tuberosum","late cultivar",4
+"Vitis vinifera","late cultivar",6
+"Malus x domestica","middle cultivar",2
+"Solanum tuberosum","middle cultivar",4
+"Vitis vinifera","Mueller-Thurgau",9
+"Acer","no specification",1
+"Aesculus hippocastanum","no specification",9
+"Alopecurus pratensis","no specification",2
+"Ambrosia artemisiifolia","no specification",1
+"Anemone","no specification",2
+"Anemone hepatica","no specification",1
+"Artemisia vulgaris","no specification",1
+"Beta vulgaris","no specification",3
+"Calluna vulgaris","no specification",1
+"Cardamine","no specification",1
+"Castanea sativa","no specification",6
+"Colchicum autumnale","no specification",2
+"Convallaria majalis","no specification",1
+"Cornus","no specification",2
+"Corylus avellana","no specification",9
+"Cyclamen","no specification",1
+"Dactylis glomerata","no specification",2
+"Epilobium angustifolium","no specification",1
+"Fagus","no specification",3
+"Forsythia suspensa","no specification",1
+"Fragaria","no specification",2
+"Fragaria vesca","no specification",5
+"Fraxinus excelsior","no specification",5
+"Galanthus nivalis","no specification",1
+"Helianthus annuus","no specification",5
+"Juglans","no specification",7
+"Larix decidua","no specification",5
+"Laurus nobilis","no specification",1
+"Leucanthemum","no specification",1
+"Leucojum vernum","no specification",1
+"Malus x domestica","no specification",9
+"Meadow","no specification",1
+"Olea europea","no specification",5
+"Onobrychis","no specification",1
+"Philadelphus coronarius","no specification",1
+"Picea abies (P.excelsa)","no specification",4
+"Populus","no specification",4
+"Prunus amygdalis","no specification",8
+"Prunus armeniaca","no specification",2
+"Prunus avium","no specification",7
+"Prunus cerasus","no specification",4
+"Prunus domestica","no specification",4
+"Prunus padus","no specification",1
+"Prunus persica","no specification",1
+"Prunus spinosa","no specification",4
+"Pyrus communis","no specification",3
+"Quercus robur (Q.peduncula)","no specification",6
+"Ribes alpinum","no specification",1
+"Ribes grossularia","no specification",3
+"Ribes rubrum","no specification",4
+"Robinia pseudoacacia","no specification",8
+"Rosmarinus officinalis","no specification",1
+"Rubus idaeus","no specification",2
+"Rubus rubus","no specification",2
+"Salix","no specification",1
+"Sambucus","no specification",2
+"Sorbus aucuparia","no specification",11
+"Symphoricarpos rivularis","no specification",1
+"Syringa vulgaris","no specification",4
+"Taraxacum officinale","no specification",2
+"Trifolium","no specification",1
+"Tussilago farfara","no specification",2
+"Viola","no specification",1
+"Vitis vinifera","no specification",9
+"Zea mays","no specification",12
+"Pyrus communis","Pastorenbirne",7
+"Pinus","Pinus sylvestris",2
+"Populus","Populus tremula",5
+"Prunus domestica","Prunus domestica Pozegaca",7
+"Salix","Salix caprea",3
+"Salix","Salix smithiana",2
+"Salix","Salix viminalis",1
+"Fraxinus excelsior","Sambucus nigra",1
+"Sambucus","Sambucus nigra",7
+"Sambucus","Sambucus racemosa",3
+"Avena sativa","spring",9
+"Hordeum vulgare","spring",9
+"Tilia","Tilia cordata",8
+"Tilia","Tilia platyphyllos",6
+"Vaccinium","Vaccinium myrtillus",6
+"Rosa","Wildrose",2
+"Avena sativa","winter",1
+"Hordeum vulgare","winter",7
+"Secale cereale","winter",9
+"Triticum aestivum","winter",10
